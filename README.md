@@ -1,2 +1,2 @@
 # Notebooks
-Storage of notebooks
+Storage of jupyter notebooks projects
